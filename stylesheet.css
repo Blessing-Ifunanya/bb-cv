@@ -1,0 +1,45 @@
+
+.flex-container {
+    display: flex;
+    width: 1000px;
+    
+}
+
+.flex-container > div {
+    
+    margin-top: 10px;
+    padding: 20px;
+    font-size: 30px;
+}
+
+.flex1 {
+    flex: 1;
+    background-color: blue;
+    color: white;
+    ;
+}
+.flex4 {
+flex: 4;
+}
+
+#h3{padding-right: px;
+    
+}
+
+#h4,#p{
+    padding-left: 40px;
+}
+
+#h3,#h4{
+    color: blue;
+}
+
+#h4{
+    font-size: 20px;
+}
+#p{
+    font-size: 18px ;
+}
+#ca,#contact,#in{
+    padding-top: 50px;
+}
